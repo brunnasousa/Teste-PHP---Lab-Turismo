@@ -1,6 +1,6 @@
 # TESTE PHP - Lab Turismo
 ## 💻 Sobre
-- 4 questoes entre os niveis 'easy'e 'medium' para a vaga de desenvolvedor de software na Lab Turismo.
+- 4 questoes entre os niveis 'easy'e 'medium' para a vaga de Desenvolvedor Full Stack na Lab Turismo Consultoria.
 
 ## 🛠 Ferramentas
 
@@ -15,6 +15,8 @@ As seguintes ferramentas foram usadas na construção do projeto até o momento:
 - Para o desenvolvimento utilizando PHP 8, foi utilizado o [XAMPP Control Panel v3.3.0](https://www.apachefriends.org/pt_br/download.html) e o Apache como servidor local.
 
 - Após o 'start' no Apache dentro do XAMPP, foi acessado via 'Google Chrome' o localhost.
+
+- As pastas estäo separadas por questoes > caso_teste_n > index.php
 
 ## 📝 Autor - Contact
 <table>
