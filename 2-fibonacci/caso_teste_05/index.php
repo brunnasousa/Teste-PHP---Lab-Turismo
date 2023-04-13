@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fibonacci - 01</title>
+    <title>Fibonacci - 05</title>
 </head>
 <body>
     <h1 style="text-align: center">Teste PHP - Lab Turismo</h1>
@@ -15,10 +15,10 @@
     <p>Os números de Fibonacci são uma sequência de números onde cada número após os dois primeiros é uma soma dos dois anteriores. A título ilustrativo, segue uma pequena sequência dada a valores iniciais de (0, 1) é (0, 1, 1, 2, 3, 5, 8, 13).
     Dado um inteiro $n, calcule os primeiros n números na sequência de Fibonacci, dados os elementos iniciais de (0, 1). Retorna um array com todos os valores em ordem crescente</p>
 
-    <p>Caso Teste 01: <br></p>
+    <p>Caso Teste 05: <br></p>
     <?php
         
-        $n = 4; //dados do usuário
+        $n = 3; //dados do usuário
 
         function fibonacci ($n) {
 
